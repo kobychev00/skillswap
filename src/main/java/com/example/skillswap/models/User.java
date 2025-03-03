@@ -6,6 +6,10 @@ import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import com.example.skillswap.models.Skill;
+import com.example.skillswap.models.Wish;
+import com.example.skillswap.models.MatchRequest;
+import java.util.List;
 
 @Entity
 @Data
